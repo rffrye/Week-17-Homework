@@ -12,4 +12,11 @@ MongoDB, MongoDB Atlas, Heroku, Github, Javascript, CSS, HTML, NPM
 
 ## Images 
 
+![Main page](public/imgs/main.png)
+
+![Main page](public/imgs/workout.png)
+
+![Main page](public/imgs/data.png)
+
+
 ## Links
