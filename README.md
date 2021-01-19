@@ -21,9 +21,9 @@ MongoDB, MongoDB Atlas, Heroku, Github, Javascript, CSS, HTML, NPM
 
 ## Links
 
-* Link to repo
+* Link to 
 [GitHub](https://github.com/rffrye/Week-17-Homework)
 
-* Link to deployed app
-[GitHub](https://randallworkouttracker.herokuapp.com/?id=6005f21bd47e350015c79254)
+* Link to deployed 
+[app](https://randallworkouttracker.herokuapp.com/?id=6005f21bd47e350015c79254)
 
